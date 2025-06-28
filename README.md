@@ -18,4 +18,12 @@ A PCB business card for Hack Club's Undercity hackathon with special features! A
 
 ## Parts BOM for PCB
 
-![image](https://github.com/user-attachments/assets/a8564da4-ae74-4240-b933-dcb645e9eb3a)
+| Item Name | Purpose | Item Source | Quantity | Unit Cost (USD) | Cost (USD) |
+| :--- | :--- | :--- | ---:| :--- | ---:|
+| **Electronic Components** | | | | | |
+| ST25DV04K NFC Chip (TSSOP-8) | High-performance NFC tag IC with energy harvesting | LCSC | 1 | $0.612 | $0.612 |
+| 2.2µF Capacitor (0603) | Energy storage/smoothing for the NFC `V_EH` output | LCSC | 1 | $0.006 | $0.006 |
+| Blue LED (0603) | Visual indicator for NFC field detection | LCSC | 1 | $0.010 | $0.010 |
+| Green LED (0805) | Second visual indicator for NFC field detection | LCSC | 1 | $0.011 | $0.011 |
+| 47Ω Resistors (0603) | Current limiting for each of the parallel LEDs | LCSC | 2 | $0.001 | $0.002 |
+| **Subtotal (Components)** | | | | | **$0.641** |
