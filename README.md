@@ -15,3 +15,7 @@ A PCB business card for Hack Club's Undercity hackathon with special features! A
 | Item Name                                | Purpose                                                  | Item Source | Quantity | Unit Cost (includes taxes) | Cost    |
 |:-----------------------------------------|:----------------------------------------------------------|:------------|---------:|:----------------------------|:--------|
 | Printed Circuit Board with Assembly      | The entire project, with all components SMT soldered by JLCPCB.        | JLCPCB      |        1 | $?                      | $?   |
+
+## Parts BOM for PCB
+
+![image](https://github.com/user-attachments/assets/a8564da4-ae74-4240-b933-dcb645e9eb3a)
