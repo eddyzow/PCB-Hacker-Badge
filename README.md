@@ -3,12 +3,12 @@ A PCB business card for Hack Club's Undercity hackathon with special features! A
 
 # PCB Design
 
-![image](https://github.com/user-attachments/assets/2f004adb-f444-4433-b7b7-bb08bc498c3e)
-![image](https://github.com/user-attachments/assets/8a2e0afc-7687-4536-8749-3673af76db83)
+![image](https://github.com/user-attachments/assets/f949c9a9-bf6c-46ab-9243-dd976c9e5088)
+![image](https://github.com/user-attachments/assets/0ce165f8-cc93-4010-bbaa-cc94ac492b49)
 
 # Schematic
 
-![image](https://github.com/user-attachments/assets/77e37ce8-a9fd-4dcb-b06c-814c41355bb3)
+![image](https://github.com/user-attachments/assets/d7ec7488-1709-4dd5-ae31-eb80fc904bc2)
 
 # Bill of Materials
 
@@ -21,9 +21,9 @@ A PCB business card for Hack Club's Undercity hackathon with special features! A
 | Item Name | Purpose | Item Source | Quantity | Unit Cost (USD) | Cost (USD) |
 | :--- | :--- | :--- | ---:| :--- | ---:|
 | **Electronic Components** | | | | | |
-| ST25DV04K NFC Chip (TSSOP-8) | High-performance NFC tag IC with energy harvesting | LCSC | 1 | $0.612 | $0.612 |
-| 2.2µF Capacitor (0603) | Energy storage/smoothing for the NFC `V_EH` output | LCSC | 1 | $0.006 | $0.006 |
-| Blue LED (0603) | Visual indicator for NFC field detection | LCSC | 1 | $0.010 | $0.010 |
+| NT3H2111 NFC Chip (XQFN-8) | The NFC tag IC that stores the URL and harvests power | LCSC | 1 | $0.882 | $0.882 |
+| 220nF Capacitor (C0603) | RF tuning and rectifying capacitor for the NT3H2111's power output | LCSC | 1 | $0.006 | $0.006 |
+| Blue LED (0603) | Visual indicator for when the NFC field is active | LCSC | 1 | $0.010 | $0.010 |
 | Green LED (0805) | Second visual indicator for NFC field detection | LCSC | 1 | $0.011 | $0.011 |
 | 47Ω Resistors (0603) | Current limiting for each of the parallel LEDs | LCSC | 2 | $0.001 | $0.002 |
-| **Subtotal (Components)** | | | | | **$0.641** |
+| **Subtotal (Components)** | | | | | **$0.911** |
