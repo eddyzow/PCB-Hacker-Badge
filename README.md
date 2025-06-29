@@ -1,5 +1,5 @@
 # PCB-Hacker-Badge
-A PCB business card for Hack Club's Undercity hackathon with special features! An upgrade to my original PCB business card, this card features an upgrade to Type 5 NFC (ST25DV) from Type 2, two LEDs instead of one, increased NFC field range, and additional updated information about myself. Created for Hack Club's Highway program.
+A PCB business card for Hack Club's Undercity hackathon with special features! An upgrade to my original PCB business card, this card features two LEDs instead of one and additional updated information about myself. Created for Hack Club's Highway program.
 
 # PCB Design
 
