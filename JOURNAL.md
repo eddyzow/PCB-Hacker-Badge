@@ -1,7 +1,7 @@
 ---
 title: "PCB Hacker Badge Pro"
 author: "Eddy Zhao (@eddyzow)"
-description: "A PCB business card for Hack Club's Undercity hackathon with Type 5 NFC, two LEDs, increased field range, and additional updated information about myself."
+description: "A PCB business card for Hack Club's Undercity hackathon with two LEDs and additional updated information about myself."
 created_at: "2025-06-26"
 ---
 
