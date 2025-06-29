@@ -5,10 +5,20 @@ description: "A PCB business card for Hack Club's Undercity hackathon with Type 
 created_at: "2025-06-26"
 ---
 
-*Total hours spent: 7* | *Date started: 26 June 2025*
+*Total hours spent: 10* | *Date started: 26 June 2025*
 
 # PCB Hacker Badge Pro
 _new me, new hacker badge!_
+
+## entry #2 - 6/29
+
+so, it turns out that the antenna i used doesn't work. and i've made so many strange random changes that i'm getting into a territory that doesn't make sense to explore any further for now. i think it would only be best if i went back and decided to use the original NT3H2111 chip.
+
+I still think it will generate enough power to power two LEDs! it's simply that i'm going to be using the old chip again and this is totally fine. i made the silkscreen/design changes that i wished and the electronics will be slightly less bulky this way.
+
+i look forward to submitting this short project!
+
+_hours spent in session: 3_
 
 ## entry #1 - 6/28
 
@@ -34,3 +44,5 @@ can you guess which one is the newer one?
 i made all this in google drawings, and it was truly a pain to make it fit into easyeda. after 10 tries (!!) i was able to finally crop and shape the artwork into the way I wanted.
 
 i'll make one more addition after this entry, and that is adding my signature in silver to the card front. this is a short project so I'm only expecting four points for highway. either way still had a lot of fun and will (im)patiently await my cards!
+
+_hours spent in session: 7_
