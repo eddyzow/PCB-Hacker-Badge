@@ -17,6 +17,7 @@ A PCB business card for Hack Club's Undercity hackathon with special features! A
 | Printed Circuit Board with Assembly      | The entire project, with all components SMT soldered by JLCPCB.        | JLCPCB      |        1 | $64.06                      | $64.06   |
 
 ** this does not include the $20 Highway JLC discount which also eliminates most tariff costs in addition to a flat $20 discount. This will likely actually cost around $30. for reference, here is the purchase summary:
+
 ![image](https://github.com/user-attachments/assets/19b3a362-1fcd-4551-88f6-8c23013bd8c2)
 
 ## Parts BOM for PCB
