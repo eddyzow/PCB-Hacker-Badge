@@ -10,15 +10,15 @@ A PCB business card for Hack Club's Undercity hackathon with special features! A
 
 ![image](https://github.com/user-attachments/assets/d7ec7488-1709-4dd5-ae31-eb80fc904bc2)
 
-# Bill of Materials
+# Bill of Materials (given the JLCPCB Highway discount)
 
 | Item Name                                | Purpose                                                  | Item Source | Quantity | Unit Cost (includes taxes) | Cost    |
 |:-----------------------------------------|:----------------------------------------------------------|:------------|---------:|:----------------------------|:--------|
-| Printed Circuit Board with Assembly      | The entire project, with all components SMT soldered by JLCPCB.        | JLCPCB      |        1 | $43.15                      | $43.15   |
+| Printed Circuit Board with Assembly      | The entire project, with all components SMT soldered by JLCPCB.        | JLCPCB      |        1 | $28.00 (estimate)                      | $28.00   |
 | **Electronic Components** | | | | | |
 | [NT3H2111 NFC Chip (XQFN-8)](https://jlcpcb.com/partdetail/NXPSemicon-NT3H2111W0FHKH/C710403) | The NFC tag IC that stores the URL and harvests power | LCSC | 1 | $0.882 | $0.882 |
 | [220nF Capacitor (C0603)](https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120) | RF tuning and rectifying capacitor for the NT3H2111's power output | LCSC | 1 | $0.006 | $0.006 |
 | [Red LED (0603)](https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0603R/C2286) | Visual indicator for when the NFC field is active | LCSC | 1 | $0.010 | $0.010 |
 | [Green LED (0805)](https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0805G/C2297) | Second visual indicator for NFC field detection | LCSC | 1 | $0.011 | $0.011 |
 | [47Ω Resistors (0603)](https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182) | Current limiting for each of the parallel LEDs | LCSC | 2 | $0.001 | $0.002 |
-| **Subtotal (Components)** | | | | | **$44.06** |
+| **Subtotal (Components)** | | | | | **$28.91** |
