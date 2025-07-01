@@ -5,10 +5,18 @@ description: "A PCB business card for Hack Club's Undercity hackathon with two L
 created_at: "2025-06-26"
 ---
 
-*Total hours spent: 10* | *Date started: 26 June 2025*
+*Total hours spent: 11* | *Date started: 26 June 2025*
 
 # PCB Hacker Badge Pro
 _new me, new hacker badge!_
+
+## entry #3 - 7/1
+
+to cut some costs, i removed some extended components that were increasing the price. for example, the blue LED costs $3 more than the red LED, so I made it red instead.
+
+that should be about it for this project! it's been a nice short break compared to the bigger projects i'm working on right now.
+
+_hours spent in session: 1_
 
 ## entry #2 - 6/29
 
