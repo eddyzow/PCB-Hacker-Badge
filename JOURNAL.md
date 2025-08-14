@@ -10,6 +10,12 @@ created_at: "2025-06-26"
 # PCB Hacker Badge Pro
 _new me, new hacker badge!_
 
+## entry #4 - 8/14
+
+i forgot to add a real image of the finished product!
+
+<img width="1028" height="799" alt="image" src="https://github.com/user-attachments/assets/3dd5d296-52d3-4c8c-beb8-831811c37270" />
+
 ## entry #3 - 7/1
 
 to cut some costs, i removed some extended components that were increasing the price. for example, the blue LED costs $3 more than the red LED, so I made it red instead.
